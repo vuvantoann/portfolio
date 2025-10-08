@@ -1,0 +1,114 @@
+{
+     "firstName": "Toan Vu",
+    "lastName": "I'm",
+    "role": "Fullstack Developer",
+    "avatar": "/images/me-2.png",
+    "description": "Motivated Fullstack Developer with around 1 year of hands-on experience in web development using Node.js, Express, TypeScript, ReactJS, Redux, and MongoDB. Skilled in building responsive UIs, developing scalable RESTful APIs, and deploying fullstack applications.",
+    "experienceNum": "1+",
+      "socialLinks": [
+          {
+              "platform": "youtube",
+              "url": "https://youtube.com"
+          },
+          {
+              "platform": "facebook",
+              "url": "https://facebook.com"
+          },
+          {
+              "platform": "twitter",
+              "url": "https://twitter.com"
+          },
+          {
+              "platform": "instagram",
+              "url": "https://instagram.com"
+          },
+          {
+              "platform": "tikTok",
+              "url": "https://tiktok.com"
+          }
+      ],
+    "skills": [
+        {
+            "id": "html",
+            "name": "HTML",
+            "icon": "/icons/html.svg"
+        },
+        {
+            "id": "css",
+            "name": "CSS",
+            "icon": "/icons/css.svg"
+        },
+        {
+            "id": "js",
+            "name": "JavaScript",
+            "icon": "/icons/javascript.svg"
+        },
+        {
+            "id": "ts",
+            "name": "TypeScript",
+            "icon": "/icons/typescript.svg"
+        },
+        {
+            "id": "react",
+            "name": "React",
+            "icon": "/icons/react.svg"
+        },
+        {
+            "id": "ant-design",
+            "name": "AntDesign",
+            "icon": "/icons/ant-design.svg"
+        },
+        {
+            "id": "express",
+            "name": "Express",
+            "icon": "/icons/express.svg"
+        },
+        {
+            "id": "github",
+            "name": "Github",
+            "icon": "/icons/github.svg"
+        }
+    ],
+    "projects": [
+    {
+        "id": "1",
+        "name": "Vietnam Travel Website",
+        "description": "A fullstack travel booking platform with separate client and admin dashboards. Features secure authentication, RESTful APIs, and Redux state management.",
+        "image": "/images/Vietnam.jpg",
+        "demo": "https://booktours.vercel.app",
+        "tech": ["ReactJS", "Redux", "Node.js", "TypeScript", "MongoDB", "Ant Design"]
+    },
+    {
+        "id": "2",
+        "name": "Plant Shop Website",
+        "description": "An SSR e-commerce platform for selling plants, built with the MVC model. Includes CRUD, Cloudinary image upload, middleware-based validation, authentication, and email notifications.",
+        "image": "/images/plant.jpg",
+        "demo": "https://shopplant.vercel.app",
+        "tech": ["Node.js", "Express.js", "Pug", "MongoDB", "SCSS"]
+    },
+    {
+        "id": "3",
+        "name": "Online Quiz Website",
+        "description": "A quiz platform with topic-based questions, scoring logic, history tracking, and detailed result analytics. Responsive UI built with Ant Design and SCSS.",
+        "image": "/images/quiz.jpg",
+        "demo": "https://quizzy-client.vercel.app",
+        "tech": ["ReactJS", "Redux", "Node.js", "TypeScript", "MongoDB"]
+    },
+    {
+        "id": "4",
+        "name": "Pure HTML/CSS Website",
+        "description": "A frontend-only project focused on building responsive layouts and reusable UI components with clean, optimized code.",
+        "image": "/images/html.jpg",
+        "demo": "https://ui-mini.vercel.app",
+        "tech": ["HTML5", "CSS3", "JavaScript"]
+    }
+]
+,
+    "contact": {
+        "email": "toanvu1728@gmail.com",
+        "phone": "+84 0355115716",
+        "address": "Tu liem, Ha Noi",
+        "linkedin": "https://www.linkedin.com/in/v%C5%A9-to%C3%A0n-511977383/",
+        "github": "https://github.com/vuvantoann"
+    }
+}
