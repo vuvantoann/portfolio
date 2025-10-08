@@ -5,7 +5,6 @@ import 'swiper/css'
 import 'swiper/css/navigation'
 import ProjectCard from './project-card'
 import { Navigation } from 'swiper/modules'
-import { IoIosArrowBack, IoIosArrowForward } from 'react-icons/io'
 
 import { Project } from '@/types'
 
@@ -55,20 +54,6 @@ const ProjectCarousel = ({ data }: Props) => {
           </SwiperSlide>
         ))}
       </Swiper>
-
-      {/* Navigation Buttons */}
-      {/* <button
-        ref={prevRef}
-        className="w-10 h-10  left-4 top-1/2 -translate-y-1/2 z-50 bg-yellow-500 rounded-full flex justify-center items-center shadow-lg"
-      >
-        <IoIosArrowBack />
-      </button>
-      <button
-        ref={nextRef}
-        className="w-10 h-10  right-4 top-1/2 -translate-y-1/2 z-50 bg-yellow-500 rounded-full flex justify-center items-center shadow-lg"
-      >
-        <IoIosArrowForward />
-      </button> */}
     </div>
   )
 }
