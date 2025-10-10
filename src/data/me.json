@@ -101,6 +101,38 @@
         "image": "/images/html.jpg",
         "demo": "https://ui-mini.vercel.app",
         "tech": ["HTML5", "CSS3", "JavaScript"]
+    },
+    {
+        "id": "5",
+        "name": "Vietnam Travel Website",
+        "description": "A fullstack travel booking platform with separate client and admin dashboards. Features secure authentication, RESTful APIs, and Redux state management.",
+        "image": "/images/Vietnam.jpg",
+        "demo": "https://booktours.vercel.app",
+        "tech": ["ReactJS", "Redux", "Node.js", "TypeScript", "MongoDB", "Ant Design"]
+    },
+    {
+        "id": "6",
+        "name": "Plant Shop Website",
+        "description": "An SSR e-commerce platform for selling plants, built with the MVC model. Includes CRUD, Cloudinary image upload, middleware-based validation, authentication, and email notifications.",
+        "image": "/images/plant.jpg",
+        "demo": "https://shopplant.vercel.app",
+        "tech": ["Node.js", "Express.js", "Pug", "MongoDB", "SCSS"]
+    },
+    {
+        "id": "7",
+        "name": "Online Quiz Website",
+        "description": "A quiz platform with topic-based questions, scoring logic, history tracking, and detailed result analytics. Responsive UI built with Ant Design and SCSS.",
+        "image": "/images/quiz.jpg",
+        "demo": "https://quizzy-client.vercel.app",
+        "tech": ["ReactJS", "Redux", "Node.js", "TypeScript", "MongoDB"]
+    },
+    {
+        "id": "8",
+        "name": "Pure HTML/CSS Website",
+        "description": "A frontend-only project focused on building responsive layouts and reusable UI components with clean, optimized code.",
+        "image": "/images/html.jpg",
+        "demo": "https://ui-mini.vercel.app",
+        "tech": ["HTML5", "CSS3", "JavaScript"]
     }
 ]
 ,
