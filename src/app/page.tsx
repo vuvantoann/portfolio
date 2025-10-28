@@ -28,8 +28,8 @@ export default function Home() {
         return <FaYoutube size={ICON_SIZE} />
       case SocialPlatform.FACEBOOK:
         return <FaFacebookF size={ICON_SIZE} />
-      case SocialPlatform.TWITTER:
-        return <FaXTwitter size={ICON_SIZE} />
+      // case SocialPlatform.TWITTER:
+      //   return <FaXTwitter size={ICON_SIZE} />
       case SocialPlatform.INSTAGRAM:
         return <FaInstagram size={ICON_SIZE} />
       case SocialPlatform.TIKTOK:

@@ -8,23 +8,19 @@
       "socialLinks": [
           {
               "platform": "youtube",
-              "url": "https://youtube.com"
+              "url": "https://www.youtube.com/@ToanVuTech"
           },
           {
               "platform": "facebook",
-              "url": "https://facebook.com"
-          },
-          {
-              "platform": "twitter",
-              "url": "https://twitter.com"
+              "url": "https://www.facebook.com/share/1CvS2jaeKh/?mibextid=wwXIfr"
           },
           {
               "platform": "instagram",
-              "url": "https://instagram.com"
+              "url": "https://www.instagram.com/vuvantoann/"
           },
           {
               "platform": "tikTok",
-              "url": "https://tiktok.com"
+              "url": "https://www.tiktok.com/@js.dev.life"
           }
       ],
     "skills": [
@@ -140,7 +136,6 @@
         "email": "toanvu1728@gmail.com",
         "phone": "+84 0355115716",
         "address": "Tu liem, Ha Noi",
-        "linkedin": "https://www.linkedin.com/in/vu-toan-511977383/",
         "github": "https://github.com/vuvantoann"
     }
 }
