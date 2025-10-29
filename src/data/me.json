@@ -15,10 +15,6 @@
               "url": "https://www.facebook.com/share/1CvS2jaeKh/?mibextid=wwXIfr"
           },
           {
-              "platform": "instagram",
-              "url": "https://www.instagram.com/vuvantoann/"
-          },
-          {
               "platform": "tikTok",
               "url": "https://www.tiktok.com/@js.dev.life"
           }
@@ -133,7 +129,7 @@
 ]
 ,
     "contact": {
-        "email": "toanvu1728@gmail.com",
+        "email": "vutoan1728@gmail.com",
         "phone": "+84 0355115716",
         "address": "Tu liem, Ha Noi",
         "github": "https://github.com/vuvantoann"

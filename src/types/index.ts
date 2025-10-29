@@ -24,7 +24,6 @@ export interface ContactInfo {
   email: string
   phone: string
   address: string
-  linkedin: string
   github: string
 }
 

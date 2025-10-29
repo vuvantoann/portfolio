@@ -130,11 +130,11 @@ export default function Home() {
                 content={info.contact.email}
                 href={`mailto:${info.contact.email}`}
               />
-              <ContactRow
+              {/* <ContactRow
                 title="LinkedIn"
                 content={removeHttpsFromSocialLink(info.contact.linkedin)}
                 href={info.contact.linkedin}
-              />
+              /> */}
               <ContactRow
                 title="Github"
                 content={removeHttpsFromSocialLink(info.contact.github)}
