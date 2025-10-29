@@ -3,7 +3,7 @@ import Avatar from '@/components/ui/avatar'
 import SectionContent from '@/components/section-content'
 import SectionTitle from '@/components/section-title'
 import SocialLink from '@/components/ui/social-link'
-import { FaFacebookF, FaInstagram, FaTiktok, FaYoutube } from 'react-icons/fa'
+import { FaFacebookF, FaTiktok, FaYoutube } from 'react-icons/fa'
 import SkillBoard from '@/components/skill-board'
 import Footer from '@/components/layout/footer'
 import ContactRow from '@/components/contact-row'
@@ -12,7 +12,6 @@ import InfoComponent from '@/components/info-component'
 import ProjectCarousel from '@/components/project-carousel'
 import MyInfo from '@/data/me.json'
 import { ProfileInfo, SocialPlatform } from '@/types'
-import { FaXTwitter } from 'react-icons/fa6'
 
 export default function Home() {
   const info: ProfileInfo = (MyInfo as ProfileInfo) || {}
@@ -28,10 +27,6 @@ export default function Home() {
         return <FaYoutube size={ICON_SIZE} />
       case SocialPlatform.FACEBOOK:
         return <FaFacebookF size={ICON_SIZE} />
-      // case SocialPlatform.TWITTER:
-      //   return <FaXTwitter size={ICON_SIZE} />
-      case SocialPlatform.INSTAGRAM:
-        return <FaInstagram size={ICON_SIZE} />
       case SocialPlatform.TIKTOK:
         return <FaTiktok size={ICON_SIZE} />
 
@@ -130,11 +125,6 @@ export default function Home() {
                 content={info.contact.email}
                 href={`mailto:${info.contact.email}`}
               />
-              {/* <ContactRow
-                title="LinkedIn"
-                content={removeHttpsFromSocialLink(info.contact.linkedin)}
-                href={info.contact.linkedin}
-              /> */}
               <ContactRow
                 title="Github"
                 content={removeHttpsFromSocialLink(info.contact.github)}

@@ -1,9 +1,7 @@
 export enum SocialPlatform {
   YOUTUBE = 'youtube',
   FACEBOOK = 'facebook',
-  TWITTER = 'twitter',
   TIKTOK = 'tikTok',
-  INSTAGRAM = 'instagram',
 }
 
 export interface Skill {
