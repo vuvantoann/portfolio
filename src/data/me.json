@@ -1,9 +1,9 @@
 {
      "firstName": "Toan Vu",
     "lastName": "I'm",
-    "role": "Fullstack Developer",
+    "role": "Aspiring Fullstack Developer",
     "avatar": "/images/me-2.png",
-    "description": "Motivated Fullstack Developer with around 1 year of hands-on experience in web development using Node.js, Express, TypeScript, ReactJS, Redux, and MongoDB. Skilled in building responsive UIs, developing scalable RESTful APIs, and deploying fullstack applications.",
+    "description": "Motivated Backend Developer with 6 months of frontend internship experience and strong self-taught backend skills. Proficient in Node.js, Express, TypeScript, ReactJS, Redux, and MongoDB. Built multiple fullstack personal projects featuring authentication, RESTful APIs, and real-time functionality. Eager to contribute to a professional team while expanding backend expertise.",
     "experienceNum": "1+",
       "socialLinks": [
           {
